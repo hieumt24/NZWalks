@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HMC20hGWlT8sg2JCEAZ+gVFZAR7PArbPFtSzx3DMg0Hem+XkVVLyw2sAwPy/Ljx9sRkZ/EH2sYBJrynrGb+TjQ==",
+  "dgSpecHash": "NQg67631NRb+JOao5Yi48jguQJ3EswD+k0pf3WhDjvwCFNWWCD6rEM4IVhSdrugOW9nBJ69UFrEqSTwcaJ8hBQ==",
   "success": true,
-  "projectFilePath": "D:\\DEV\\Udemy\\NZWalks\\NZWalks\\NZWalks.API\\NZWalks.API.csproj",
+  "projectFilePath": "D:\\DEV\\Udemy\\Project\\NZWalks\\NZWalks.API\\NZWalks.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hieum\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\hieum\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
