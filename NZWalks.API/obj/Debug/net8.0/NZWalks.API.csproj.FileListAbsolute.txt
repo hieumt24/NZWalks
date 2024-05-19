@@ -273,3 +273,4 @@ D:\DEV\Udemy\Project\NZWalks\NZWalks.API\obj\Debug\net8.0\refint\NZWalks.API.dll
 D:\DEV\Udemy\Project\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.pdb
 D:\DEV\Udemy\Project\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.genruntimeconfig.cache
 D:\DEV\Udemy\Project\NZWalks\NZWalks.API\obj\Debug\net8.0\ref\NZWalks.API.dll
+D:\DEV\Udemy\Project\NZWalks\NZWalks.API\bin\Debug\net8.0\AutoMapper.dll

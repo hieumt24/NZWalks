@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "NQg67631NRb+JOao5Yi48jguQJ3EswD+k0pf3WhDjvwCFNWWCD6rEM4IVhSdrugOW9nBJ69UFrEqSTwcaJ8hBQ==",
+  "dgSpecHash": "rFZLk1jKuqSKOgx1AY+1u9W2DwVKCtvlYx6ZCukzsaoIbT0PTAR5dFfJSY9D/qfTkv9Fu3Qzf26NlTUS+bTfaw==",
   "success": true,
   "projectFilePath": "D:\\DEV\\Udemy\\Project\\NZWalks\\NZWalks.API\\NZWalks.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\hieum\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\hieum\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\hieum\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\hieum\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
