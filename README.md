@@ -25,3 +25,7 @@ I'm a full stack developer...
     - Simplification 
     - Map between DTOs and Domain Models and Vice-versa
     - Quite powerful apart from just simple object-to-object mapping
+
+## Navigation Properties 
+    - Allow to Navigate From one Entity To Another
+    - Walks Domain model will have Region Navigation Property

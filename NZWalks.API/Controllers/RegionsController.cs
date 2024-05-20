@@ -122,7 +122,6 @@ namespace NZWalks.API.Controllers
 
             //return deleted Region back
             //map Domain Model to DTO
-
             var regionDto = mapper.Map<RegionDto>(regionDomainModel);
 
             return Ok(regionDto);
