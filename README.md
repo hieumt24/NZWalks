@@ -29,3 +29,19 @@ I'm a full stack developer...
 ## Navigation Properties 
     - Allow to Navigate From one Entity To Another
     - Walks Domain model will have Region Navigation Property
+
+## Authenticatin
+    - The process to determine a user's Identity
+    - Username and Password
+    - By using authenticatin, we check if we trust the user
+## Authorization
+    - User permission 
+    - Roles, Policies, Claims
+    - Check if User has ReadOnly or ReadWrite Role
+## JWT token
+    - JWT or Json web token is an open standard the defines a compact and seft-contained way for securely transmitting information between parties as a Json object.
+    1.Install nuget package:
+            + Microsoft.AspNetCore.Authentication.JwtBearer
+            + Microsoft.IdentityModel.Tokens
+            + System.IdentityModel.Tokens.Jwt
+            + Microsoft.AspNetCore.Identity.EntityFrameworkCore
