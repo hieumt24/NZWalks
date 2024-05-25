@@ -74,4 +74,5 @@ I'm a full stack developer...
                     });
     4. Using Authentication in file program.cs:
                 app.UseAuthentication();
-
+    5. Use the [Authorize] controller you need authentication
+    6. Setting Up Identity DbContext
