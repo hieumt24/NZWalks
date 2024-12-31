@@ -1,10 +1,8 @@
 # NZWalks
 If you find this project useful, please give it a star. Thanks! ⭐
-Asp.Net Core 8 Web Api
 
-## 🚀 About Me
-
-I'm a full stack developer...
+##Technology stack
+    - Using ASP.NET CORE WEB API 8
 
 ## Reposioty Pattern
 
